@@ -1840,6 +1840,24 @@ body {
     text-align: center;
   }
 }
+.cid-r4Z1oodIUf {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-r4Z1oodIUf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-r4Z1oodIUf .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-r4Z1oodIUf .mbr-text {
+  color: #767676;
+}
 .cid-r4YpCOW3Wa .navbar {
   padding: .5rem 0;
   background: #000000;
